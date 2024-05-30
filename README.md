@@ -1,6 +1,7 @@
 ## Hi there 👋
 Hello, I'm currently a student. I hope to create a product or work through my own efforts. 
 I have a passion for front-end development and take pride in the knowledge I'm currently learning.
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=ovlineen)]()
 <!--
 **ovlineen/ovlineen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
