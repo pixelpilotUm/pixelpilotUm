@@ -1,0 +1,33 @@
+name: Waka Readme
+
+on:
+  schedule:
+    # 每天的凌晨12:00 IST 运行（IST比UTC早5小时30分钟）
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      # 使用 anmol098/waka-readme-stats 动作更新 README
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Update README with WakaTime Metrics
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # 设置是否显示代码行数统计图表
+          SHOW_LOC_CHART: False
+
+      # 可选：添加一个步骤以验证配置是否成功
+      - name: Verify Update
+        run: |
+          if grep -q "WakaTime Week Stats" README.md; then
+            echo "README updated successfully."
+          else
+            echo "README update failed."
+            exit 1
