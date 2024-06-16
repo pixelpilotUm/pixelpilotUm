@@ -4,6 +4,8 @@ I have a passion for front-end development and take pride in the knowledge I'm c
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=ovlineen)]()
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -16,6 +18,45 @@ I have a passion for front-end development and take pride in the knowledge I'm c
  > 
 > 🔑 3 Private Repository 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+🌆 Daytime                14 commits          ██████████░░░░░░░░░░░░░░░   40.00 % 
+🌃 Evening                14 commits          ██████████░░░░░░░░░░░░░░░   40.00 % 
+🌙 Night                  3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Tuesday                  4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Wednesday                12 commits          █████████░░░░░░░░░░░░░░░░   34.29 % 
+Thursday                 8 commits           ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+Friday                   4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Saturday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Sunday                   3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -27,7 +68,7 @@ TypeScript               1 repo              █████░░░░░░�
 
 
 
- Last Updated on 15/06/2024 18:38:20 UTC
+ Last Updated on 16/06/2024 18:38:41 UTC
 <!--END_SECTION:waka-->
 <!--
 **ovlineen/ovlineen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
