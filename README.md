@@ -4,13 +4,11 @@ I have a passion for front-end development and take pride in the knowledge I'm c
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=ovlineen)]()
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 5.0 kB Used in GitHub's Storage 
+> 📦 5.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -18,57 +16,18 @@ I have a passion for front-end development and take pride in the knowledge I'm c
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-🌆 Daytime                18 commits          █████████░░░░░░░░░░░░░░░░   36.73 % 
-🌃 Evening                22 commits          ███████████░░░░░░░░░░░░░░   44.90 % 
-🌙 Night                  5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Tuesday                  5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Wednesday                13 commits          ███████░░░░░░░░░░░░░░░░░░   26.53 % 
-Thursday                 9 commits           █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-Friday                   5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Saturday                 3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Sunday                   9 commits           █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               4 repos             ██████████████░░░░░░░░░░░   57.14 % 
-TypeScript               2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Vue                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Vue                      2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 ```
 
 
 
 
- Last Updated on 23/07/2024 18:39:27 UTC
+ Last Updated on 24/07/2024 18:42:17 UTC
 <!--END_SECTION:waka-->
 <!--
 **ovlineen/ovlineen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
