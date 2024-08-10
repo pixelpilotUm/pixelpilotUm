@@ -10,7 +10,7 @@ Hello, I am a student from China.
 ![TypeScript](https://camo.githubusercontent.com/e47744ab8583aa63067423709493ead6d902dfb66dd3ea9b1770e2a960e024b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=00d632)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=vuejs)
+
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=pixelpilotUm
 )]()
