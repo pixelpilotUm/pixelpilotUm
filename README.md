@@ -11,7 +11,6 @@ Hello, I am a student from China.
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=00d632)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=vuejs)
-![Jekyll](http://img.shields.io/badge/-Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=ffffff)
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=pixelpilotUm
 )]()
